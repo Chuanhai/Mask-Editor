@@ -38,3 +38,19 @@ Cuurently, it supports
 (17) Show the mask of the current class (*New)
 
 (18) Load existing masks and edit them
+
+Main GUI:
+
+![mainGUI_v2.bmp](mainGUI_v2.bmp)
+
+ROI:
+
+![ROI_v2.bmp](ROI_v2.bmp)
+
+Mask edit tool:
+
+![drawing_comment_v2.bmp](drawing_comment_v2.bmp)
+
+
+![super-pixel-annotation-v2.bmp](super-pixel-annotation-v2.bmp)
+
