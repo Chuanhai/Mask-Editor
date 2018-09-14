@@ -1,7 +1,7 @@
 # Mask-Editor
 This is a new image annotation tool for image segmentation tasks
 The demo video is available on: 
-https://www.youtube.com/watch?v=CRWk5eGK-aY&feature=youtu.be
+https://youtu.be/CRWk5eGK-aY
 
 Cuurently, it supports
 
