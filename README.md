@@ -3,6 +3,9 @@ This is a new image annotation tool for image segmentation tasks
 The demo video is available on: 
 https://youtu.be/CRWk5eGK-aY
 
+If you find this software is helpful for you, please cite the following paper.
+https://arxiv.org/abs/1809.06461
+
 Cuurently, it supports
 
 (1) Open multiple files (.jpg, .jpeg, .png, .bmp, .tiff)
